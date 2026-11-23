@@ -148,3 +148,6 @@ Masofaviy repository nusxasini kompyuterga yuklab olish uchun.
 
 ## Xulosa
 GitHub loyihalarni internetda saqlash va boshqalar bilan ulashish imkonini beradi. `remote`, `push`, `pull` va `clone` komandalarini bilish lokal Git bilan GitHub o‘rtasida ishlash uchun muhim.
+
+## Foydali maslahatlar
+GitHub loyihalarni internetda saqlash, boshqalar bilan ulashish va jamoaviy ishlash imkonini beradi.
