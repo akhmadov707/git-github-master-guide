@@ -184,3 +184,6 @@ Terminal buyruqlari kompyuterda fayl va papkalarni tez boshqarishga yordam berad
 
 ## Xulosa
 Terminal kompyuter bilan buyruqlar orqali ishlash, fayl va papkalarni boshqarish hamda Git buyruqlarini bajarish imkonini beradi.
+
+## Foydali maslahatlar
+Terminal buyruqlarini yozishda har bir belgiga e'tibor berish kerak. Buyruqlarni bajarishdan oldin ularni tekshirish tavsiya etiladi.
