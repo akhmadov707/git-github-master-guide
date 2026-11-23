@@ -1,0 +1,14 @@
+# Vaqtinchalik fayllar
+*.tmp
+temp/
+
+# Shaxsiy yoki maxfiy yozuvlar
+private-notes.txt
+
+# Operatsion tizim yaratadigan fayllar
+.DS_Store
+Thumbs.db
+
+# Muhit va tahrirchi fayllari
+.vscode/
+*.log
