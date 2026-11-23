@@ -184,3 +184,6 @@ Global barcha loyihalar uchun, local esa faqat joriy repository uchun amal qilad
 
 ## Xulosa
 Git loyiha tarixini tartibli saqlashga yordam beradi. `init`, `status`, `add`, `commit`, `log`, `branch` va `switch` buyruqlari kundalik ishda ko‘p ishlatiladi. Har bir commitdan oldin o‘zgarishlarni tekshirish yaxshi odat hisoblanadi.
+
+## Xulosa
+Git dasturchilarga loyihalardagi o‘zgarishlarni kuzatish, fayllarni boshqarish va jamoa bilan ishlash imkonini beradi.
